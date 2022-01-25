@@ -1,0 +1,9 @@
+Package: aml-npu
+Version: 6.4.6.2.5.3.2
+Section: kernel
+Architecture: arm64
+Maintainer: Khadas <hello@khadas.com>
+Installed-Size: 1
+Priority: optional
+Depends: libjpeg9
+Description: Amlogic NPU libraries.
